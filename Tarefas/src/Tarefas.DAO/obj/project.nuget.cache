@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xZxGAWJx3DSjJKRRoiVVzVYGzRcNSULDEDYLY4K92OjsUJMx/OxT8yM3V3mQlMtjxiA4Yt22dDgWuspd5fVFFw==",
+  "success": true,
+  "projectFilePath": "/home/decom/bootcamp/Tarefas/src/Tarefas.DAO/Tarefa.DAO.csproj",
+  "expectedPackageFiles": [
+    "/home/decom/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/home/decom/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.113.2/stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "/home/decom/.nuget/packages/system.data.sqlite.core/1.0.113.7/system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}
