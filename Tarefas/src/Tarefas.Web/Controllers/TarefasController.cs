@@ -31,7 +31,7 @@ public class TarefasController : Controller
 
     public IActionResult Details(int Id)
     {
-        var tarefa = listaDeTarefas.Find(Tarefas => Tarefas.Id == Id);
+        var tarefa = listaDeTarefas.Find(tarefa => tarefa.Id == Id);
         return View(tarefa);
     }
 }
